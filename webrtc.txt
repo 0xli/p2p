@@ -13,3 +13,6 @@ https://appr.tc/
 https://github.com/priologic/easyrtc
 https://matrix.org/
 https://github.com/andyet/SimpleWebRTC
+
+#verto stand alone
+https://evoluxbr.github.io/verto-docs/
