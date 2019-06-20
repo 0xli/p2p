@@ -1,0 +1,5 @@
+#WebRTC signaling
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling
+https://github.com/mdn/samples-server/blob/master/s/websocket-chat/chatserver.js
+https://mdn.mozillademos.org/files/12363/WebRTC%20-%20Signaling%20Diagram.svg
+
