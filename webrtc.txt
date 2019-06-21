@@ -16,3 +16,8 @@ https://github.com/andyet/SimpleWebRTC
 
 #verto stand alone
 https://evoluxbr.github.io/verto-docs/
+
+##Send/Receive Files
+https://zhuanlan.zhihu.com/p/33161216
+https://webrtc.github.io/samples/src/content/datachannel/filetransfer/
+https://webrtc.github.io/samples/src/content/datachannel/datatransfer/
