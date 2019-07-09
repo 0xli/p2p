@@ -7,5 +7,11 @@ https://medium.com/@mycoralhealth/code-a-simple-p2p-blockchain-in-go-46662601f41
 
 https://github.com/libp2p/js-libp2p/tree/master/examples
 
-#Skype
+# Skype
 https://wiki.p2pfoundation.net/Skype
+
+# P2P sip
+https://www.gnu.org/software/gnucomm/freecall-gui.html
+https://rocket.chat/
+https://github.com/Pimm/GNU-Free-Call-prototype
+https://www.gnu.org/software/sipwitch/
