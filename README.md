@@ -6,3 +6,6 @@ https://blog.keep.network/introduction-to-libp2p-57ce6527babe
 https://medium.com/@mycoralhealth/code-a-simple-p2p-blockchain-in-go-46662601f417
 
 https://github.com/libp2p/js-libp2p/tree/master/examples
+
+#Skype
+https://wiki.p2pfoundation.net/Skype
