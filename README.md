@@ -12,6 +12,9 @@ https://wiki.p2pfoundation.net/Skype
 
 # P2P sip
 https://www.gnu.org/software/gnucomm/freecall-gui.html
+
 https://rocket.chat/
+
 https://github.com/Pimm/GNU-Free-Call-prototype
+
 https://www.gnu.org/software/sipwitch/
