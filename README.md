@@ -18,3 +18,5 @@ https://rocket.chat/
 https://github.com/Pimm/GNU-Free-Call-prototype
 
 https://www.gnu.org/software/sipwitch/
+
+https://github.com/tychosoft/sipwitchqt
