@@ -7,6 +7,10 @@ https://medium.com/@mycoralhealth/code-a-simple-p2p-blockchain-in-go-46662601f41
 
 https://github.com/libp2p/js-libp2p/tree/master/examples
 
+# ICE 
+
+https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
+
 # Skype
 https://wiki.p2pfoundation.net/Skype
 
