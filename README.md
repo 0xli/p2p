@@ -7,6 +7,13 @@ https://medium.com/@mycoralhealth/code-a-simple-p2p-blockchain-in-go-46662601f41
 
 https://github.com/libp2p/js-libp2p/tree/master/examples
 
+## DHT
+https://www.bittorrent.org/beps/bep_0005.html
+
+https://www.npmjs.com/package/webtorrent-dht/v/0.10.0
+
+https://github.com/webtorrent/bittorrent-dht
+
 # ICE 
 
 https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
