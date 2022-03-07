@@ -5,11 +5,10 @@ p2p is the future, move from b/s or c/s to peer-to-peer development
 - Kademlia DHT是一种结构化的p2p网络，这也是根据文件分享应用的需求来的。 完美的网络结构当然是最好按照物理距离来，每个节点连接和它物理距离最近的节点。 
   - https://zhuanlan.zhihu.com/p/34543023
   - https://yangzhe1991.org/blog/2015/10/cassandra-gossip-dht-wrn/
-https://blog.keep.network/introduction-to-libp2p-57ce6527babe
-
-https://medium.com/@mycoralhealth/code-a-simple-p2p-blockchain-in-go-46662601f417
-
-https://github.com/libp2p/js-libp2p/tree/master/examples
+- 以太是devp2p,而不是libp2p. devp2p is an integrated system definition that wants to serve Ethereum's needs well (although it may be a good fit for other applications, too) while libp2p is a collection of programming library parts serving no single application in particular.
+- https://blog.keep.network/introduction-to-libp2p-57ce6527babe
+- https://medium.com/@mycoralhealth/code-a-simple-p2p-blockchain-in-go-46662601f417
+- https://github.com/libp2p/js-libp2p/tree/master/examples
 ## DHT
 https://www.bittorrent.org/beps/bep_0005.html
 
